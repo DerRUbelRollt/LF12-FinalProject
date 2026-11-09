@@ -1,2 +1,2 @@
 # LF12-FinalProject
-Abschluss projekt mit Mohammad und daniel.
+Abschluss projekt mit Mohammad und Daniel.
